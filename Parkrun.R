@@ -120,3 +120,4 @@ athlete_id <- "9306344"
 result <- process_parkrun_stats(athlete_id)
 print(head(result$stats_table))
 print(result$plot)
+
